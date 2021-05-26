@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/Abhineet Sharma/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper.dog%2Fcode-wallpapers&psig=AOvVaw0ovRQfQix3i62FJueZoK_G&ust=1622131276750000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCXmobc5_ACFQAAAAAdAAAAABAD)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divergent99&show_icons=true&theme=radical)
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<windows>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
