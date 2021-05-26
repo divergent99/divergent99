@@ -1,2 +1,25 @@
 # divergent
 My Personal Repository
+
+Interests : 
+1. Machine Learning / Deep Learning: CNN, SVM Regression, Decision Trees / Random Forest, Logistic Regression
+2. Coding / Software: TensorFlow, Python, R, MySQL, Java, C/C++, HTML/CSS, JavaScript
+3. Platforms: Anaconda, RStudio, Android Studio, VScode
+
+Projects : 
+TRAFFIC DIVERSION SYSTEM - OBJECT RECOGNITION USING CNN 2019
+• Deployed CNN to detect incoming vehicles on a busy intersection to prioritize the flow of traffic to avoid congestion.
+• The High - Speed camera will capture the live feed of the incoming traffic which will be processed further to determine the number of
+vehicles in a lane.
+
+AMERICAN SIGN LANGUAGE GESTURE ANALYSIS USING TENSORFLOW BACK-END AND OPENCV 2020
+• Implemented a customer-based utility service for specially-abled people (deaf and mute specifically)
+• Motive : Deaf and mute people use sign language for communication and thus face a lot of problems in day –to– day activities like
+ordering food at a “Drive – thru ” or having a conversation with an attendant who is oblivious to their predicament.
+• ASL Detection is based on Image Processing and Object Detection integrated with a Computer webcam or any other video detecting
+accoutrements in order to help both; the customer and the retailer to have a better engagement whilst having a conversation. 
+
+FRESH - AN ANDROID BASED RESTAURANT ORDERING APP 2020
+• Developed an android application that scans QR codes and displays the menu of a particular restaurant allowing the user to order and pay
+via the application per se.
+• Me and my team wanted to impart a millennial experience to the customers by combining technology with a decent restaurant experience.
