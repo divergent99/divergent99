@@ -1,5 +1,3 @@
-![](https://github.com/divergent99/divergent99/blob/main/Banner.jpg)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divergent99&show_icons=true&theme=radical)
 
 
