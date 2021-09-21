@@ -1,5 +1,5 @@
 ![Abhineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=divergent99&show_icons=true&theme=radical)
-[![Abhineet's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhineet's github activity graph](https://activity-graph.herokuapp.com/graph?username=divergent99&theme=dracula)](https://github.com/divergent99/github-readme-activity-graph)
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<windows>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 # About Me
