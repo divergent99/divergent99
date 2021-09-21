@@ -1,4 +1,6 @@
-![Abhineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=divergent99&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divergent99&layout=compact)](https://github.com/divergent99/github-readme-stats)
+![Abhineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=divergent99&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divergent99&layout=compact)](https://github.com/divergent99/github-readme-stats)
 
 [![Abhineet's github activity graph](https://activity-graph.herokuapp.com/graph?username=divergent99&theme=dracula)](https://github.com/divergent99/github-readme-activity-graph)
 
