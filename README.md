@@ -5,9 +5,9 @@
 </font>
 <ol>
   <b>
-  <li> Name : Abhineet Sharma :floppy_disk:</li>
+  <li> Name : Abhineet Sharma a.k.a divergent99 :floppy_disk:</li>
   <li> ML and AI Enthusiast :technologist:</li>
-  <li> Find me here :fast_forward: <a href="https://www.instagram.com/abhineet_sharma_/?hl=en"></a></li>
+  <li href="https://www.instagram.com/abhineet_sharma_/?hl=en"> Find me here :fast_forward:</li>
   <li> Part Time Editor :film_strip:</li>
    </b>
 </ol>
