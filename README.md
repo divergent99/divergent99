@@ -6,9 +6,9 @@
 <ol>
   <b>
   <li> Name : Abhineet Sharma :floppy_disk:</li>
-  <li> ML and AI Enthusiast</li>
-  <li> Find me here</li>
-  <li> Part Time Editor</li>
+  <li> ML and AI Enthusiast :technologist:</li>
+  <li> Find me here :fast_forward: <a href="https://www.instagram.com/abhineet_sharma_/?hl=en"></a></li>
+  <li> Part Time Editor :film_strip:</li>
    </b>
 </ol>
 
