@@ -1,7 +1,7 @@
 ![Abhineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=divergent99&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=divergent99&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[align:"center"]
+                                                                                    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divergent99&layout=compact)](https://github.com/divergent99/github-readme-stats)
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<windows>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
