@@ -3,6 +3,14 @@
   Hello There
   </h2>
 </font>
+<ol>
+  <b>
+  <li>1. Name : Abhineet Sharma</li>
+  <li>2. ML and AI Enthusiast</li>
+  <li>3. Find me here</li>
+  <li>5. Part Time Editor</li>
+   </b>
+</ol>
 
 ![Abhineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=divergent99&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=divergent99&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
