@@ -1,5 +1,7 @@
 <font color="black">
-Hello There  
+<h2 align="center">
+  Hello There
+  </h2>
 </font>
 
 ![Abhineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=divergent99&show_icons=true&theme=radical)
