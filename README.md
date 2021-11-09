@@ -5,10 +5,10 @@
 </font>
 <ol>
   <b>
-  <li>1. Name : Abhineet Sharma</li>
-  <li>2. ML and AI Enthusiast</li>
-  <li>3. Find me here</li>
-  <li>5. Part Time Editor</li>
+  <li> Name : Abhineet Sharma :floppy_disk:</li>
+  <li> ML and AI Enthusiast</li>
+  <li> Find me here</li>
+  <li> Part Time Editor</li>
    </b>
 </ol>
 
