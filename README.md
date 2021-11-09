@@ -5,7 +5,7 @@
 </font>
 <ol>
   <b>
-  <li> Name : Abhineet Sharma:student:</li>
+  <li> Name : Abhineet Sharma 💾</li>
   <li> ML and AI Enthusiast :technologist:</li>
   <li> Gamer [Valorant] 🕹️</li>
   <li> Part Time Editor :film_strip:</li>
