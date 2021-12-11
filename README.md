@@ -23,8 +23,7 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<windows>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://komarev.com/ghpvc/?username=divergent99&color=green)
 
-![](https://github.com/divergent99/divergent99/blob/main/Valorant%20Stats%201.png=250x250)
-
+<img src="https://github.com/divergent99/divergent99/blob/main/Valorant%20Stats%201.png" alt="Stats" width="400" height="500">
 # About Me
 My Personal Repository
 
