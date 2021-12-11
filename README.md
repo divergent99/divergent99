@@ -26,6 +26,7 @@
 <div style="text-align:center"><img src="https://github.com/divergent99/divergent99/blob/main/Valorant%20Stats%201.png" alt="Stats" width="400" height="500"></div>
 
 <b>About Me</b>
+
 My Personal Repository
 
 Interests : 
