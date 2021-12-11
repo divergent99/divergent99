@@ -19,16 +19,16 @@
 <a href="https://github.com/divergent99/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divergent99&layout=compact" />
 </a> 
-</p?
+</p>
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<windows>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://komarev.com/ghpvc/?username=divergent99&color=green)
- 
   
 <p align="center">
   <img src="https://github.com/divergent99/divergent99/blob/main/Valorant%20Stats%201.png" alt="Stats" width="400" height="500">
 </p>
 
-<b>About Me</b>
+<b><h2>About Me</h2></b>
 
 My Personal Repository
 
