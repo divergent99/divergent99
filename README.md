@@ -1,10 +1,12 @@
-
-![Alt Text](https://github.com/divergent99/divergent99/blob/main/Squid%20Games.gif)
 <font color="black">
 <h2 align="center">
   Hello There
   </h2>
 </font>
+<p align="center">
+  <img src="https://github.com/divergent99/divergent99/blob/main/Squid%20Games.gif" alt="Stats" width="400" height="500">
+</p>
+
 <ol>
   <b>
   <li> Name : Abhineet Sharma 💾</li>
