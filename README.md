@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=_hexcode&height=200&section=header&text=Divergent99%20&fontSize=30&fontColor=black)
 
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/BKq0FieYJEwZ50s2jW/video" width="480"></iframe></div>
 <font color="black">
 <h2 align="center">
   Hello There
