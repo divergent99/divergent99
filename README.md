@@ -1,6 +1,5 @@
 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/BKq0FieYJEwZ50s2jW/video" width="480"></iframe></div>
-<img src="https://giphy.com/embed/BKq0FieYJEwZ50s2jW/video>
+![Alt Text](https://giphy.com/clips/netflix-season-1-episode-squid-game-BKq0FieYJEwZ50s2jW)
 <font color="black">
 <h2 align="center">
   Hello There
