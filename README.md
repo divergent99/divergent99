@@ -4,7 +4,7 @@
   </h2>
 </font>
 <p align="center">
-  <img src="https://github.com/divergent99/divergent99/blob/main/Squid%20Games.gif" alt="Stats" width="400" height="200">
+  <img src="https://github.com/divergent99/divergent99/blob/main/Squid%20Games.gif" alt="Stats" width="400" height="300">
 </p>
 
 <ol>
