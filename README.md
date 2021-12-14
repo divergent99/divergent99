@@ -1,5 +1,4 @@
 
-![Alt Text](https://giphy.com/clips/netflix-season-1-episode-squid-game-BKq0FieYJEwZ50s2jW)
 <font color="black">
 <h2 align="center">
   Hello There
