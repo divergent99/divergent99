@@ -64,6 +64,7 @@ via the application per se.
 • Me and my team wanted to impart a millennial experience to the customers by combining technology with a decent restaurant experience.
 
 <h2>
-<font color="Black">
+<font color="black">
 <a href="https://youtu.be/iik25wqIuFo">Do Not Click This ! </a>
+ </font>
 </h2>
