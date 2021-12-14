@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=footer&text=Divergent99%20&fontSize=90)
 
 <font color="black">
 <h2 align="center">
