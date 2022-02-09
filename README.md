@@ -33,6 +33,8 @@
 
 <p align="center">
   <img src="https://github.com/divergent99/divergent99/blob/main/Valorant%20Stats%201.png" alt="Stats" width="400" height="500">
+</p>
+<p>
   <img src=" https://github.com/divergent99/divergent99/blob/main/stats.jpg" alt="Stats" width="400" height="500">
 </p>
 
