@@ -34,8 +34,10 @@
 <p align="center">
   <img src="https://github.com/divergent99/divergent99/blob/main/Valorant%20Stats%201.png" alt="Stats" width="400" height="500">
 </p>
+
+<p align = "center"><h2><b>MY VALORANT STATS - 2021</b></h2></p>
 <p align="center">
-  <img src="https://github.com/divergent99/divergent99/blob/main/stats.jpg" alt="Stats" width="400" height="700">
+  <img src="https://github.com/divergent99/divergent99/blob/main/stats.jpg" alt="Stats" width="400" height="800">
 </p>
 
 <b><h2>About Me</h2></b>
