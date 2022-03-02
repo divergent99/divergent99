@@ -29,17 +29,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divergent99&layout=compact" />
 </a> 
 
-<p align = "center"><h2><b>MY VALORANT STATS - 2020</b></h2></p>
-
-<p align="center">
-  <img src="https://github.com/divergent99/divergent99/blob/main/Valorant%20Stats%201.png" alt="Stats" width="400" height="500">
-</p>
-
-<p align = "center"><h2><b>MY VALORANT STATS - 2021</b></h2></p>
-<p align="center">
-  <img src="https://github.com/divergent99/divergent99/blob/main/stats.jpg" alt="Stats" width="400" height="800">
-</p>
-
 <b><h2>About Me</h2></b>
 
 My Personal Repository
@@ -67,6 +56,17 @@ accoutrements in order to help both; the customer and the retailer to have a bet
 • Developed an android application that scans QR codes and displays the menu of a particular restaurant allowing the user to order and pay
 via the application per se.
 • Me and my team wanted to impart a millennial experience to the customers by combining technology with a decent restaurant experience.
+
+<p align = "center"><h2><b>MY VALORANT STATS - 2020</b></h2></p>
+
+<p align="center">
+  <img src="https://github.com/divergent99/divergent99/blob/main/Valorant%20Stats%201.png" alt="Stats" width="400" height="500">
+</p>
+
+<p align = "center"><h2><b>MY VALORANT STATS - 2021</b></h2></p>
+<p align="center">
+  <img src="https://github.com/divergent99/divergent99/blob/main/stats.jpg" alt="Stats" width="400" height="800">
+</p>
 
 <h2>
 <font color="black">
