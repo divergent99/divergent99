@@ -11,7 +11,7 @@
   <b>
   <li> Name : Abhineet Sharma 💾</li>
   <li> ML and AI Enthusiast :technologist:</li>
-  <li> Gamer [Valorant] 🕹️</li>
+  <li> Minecraft and Valorant 🕹️</li>
   <li> Part Time Editor :film_strip:</li>
    </b>
 </ol>
@@ -34,9 +34,9 @@
 My Personal Repository
 
 <b>Interests</b> : 
-1. Machine Learning / Deep Learning: CNN, SVM Regression, Decision Trees / Random Forest, Logistic Regression
-2. Coding / Software: TensorFlow, Python, R, MySQL, Java, C/C++, HTML/CSS, JavaScript
-3. Platforms: Anaconda, RStudio, Android Studio, VScode
+1. Machine Learning / Deep Learning: CNN,RNNs, NLP, SVM Regression, Decision Trees / Random Forest, Logistic Regression
+2. Coding / Software: TensorFlow, Python, R, MySQL, Java, C/C++, HTML/CSS, JavaScript, Tensorboard, spaCy, NLTK
+3. Platforms: Anaconda, RStudio, Android Studio, VScode, Colab
 
 <b>Projects</b> : 
 
@@ -52,7 +52,7 @@ ordering food at a “Drive – thru ” or having a conversation with an attend
 • ASL Detection is based on Image Processing and Object Detection integrated with a Computer webcam or any other video detecting
 accoutrements in order to help both; the customer and the retailer to have a better engagement whilst having a conversation. 
 
-<b>3. FRESH - AN ANDROID BASED RESTAURANT ORDERING APP 2020</b>
+<b>3. FRESH - AN ANDROID BASED RESTAURANT FOOD ORDERING APP 2020</b>
 • Developed an android application that scans QR codes and displays the menu of a particular restaurant allowing the user to order and pay
 via the application per se.
 • Me and my team wanted to impart a millennial experience to the customers by combining technology with a decent restaurant experience.
