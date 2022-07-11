@@ -9,7 +9,6 @@
 
 <ol>
   <b>
-  <li> Name : Abhineet Sharma 💾</li>
   <li> ML and AI Enthusiast :technologist:</li>
   <li> Minecraft and Valorant 🕹️</li>
   <li> Part Time Editor :film_strip:</li>
