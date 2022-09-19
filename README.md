@@ -4,7 +4,7 @@
   </h2>
 </font>
 <p align="center">
-  <img src="https://github.com/divergent99/divergent99/blob/main/Abhineet%20Sharma.png" alt="Stats">
+  <img src= alt="Stats">
 </p>
 
 <ol>
