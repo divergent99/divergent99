@@ -4,7 +4,7 @@
   </h2>
 </font>
 <p align="center">
-  <img src= alt="Stats">
+  <img src="https://github.com/divergent99/divergent99/blob/main/Hi%20!.gif" alt="Stats">
 </p>
 
 <ol>
