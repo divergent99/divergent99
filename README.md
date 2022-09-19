@@ -19,9 +19,9 @@
 ![](https://komarev.com/ghpvc/?username=divergent99&color=green)
 
 
-
+![Abhineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=divergent99&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=divergent99&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divergent99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <b><h2>About Me</h2></b>
 
@@ -51,19 +51,4 @@ accoutrements in order to help both; the customer and the retailer to have a bet
 via the application per se.
 • Me and my team wanted to impart a millennial experience to the customers by combining technology with a decent restaurant experience.
 
-<p align = "center"><h2><b>MY VALORANT STATS - 2020</b></h2></p>
 
-<p align="center">
-  <img src="https://github.com/divergent99/divergent99/blob/main/Valorant%20Stats%201.png" alt="Stats" width="400" height="500">
-</p>
-
-<p align = "center"><h2><b>MY VALORANT STATS - 2021</b></h2></p>
-<p align="center">
-  <img src="https://github.com/divergent99/divergent99/blob/main/stats.jpg" alt="Stats" width="400" height="800">
-</p>
-
-<h2>
-<font color="black">
-Warning : <a href="https://youtu.be/iik25wqIuFo">Do Not Click This ! </a>
- </font>
-</h2>
