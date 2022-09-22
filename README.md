@@ -56,7 +56,9 @@ via the application per se.
 
 <table cellspacing="4" bgcolor="#000000">
 	<tr>
+		<th>
 		Project Videos
+		</th>
 	</tr>
 	<tr>
 		<th>Module</th>
