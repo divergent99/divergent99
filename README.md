@@ -33,13 +33,13 @@
 3. Platforms: Anaconda, RStudio, Android Studio, VScode, Colab
 
 <b><h2>Projects</h2></b> : 
-<b>1. TRAFFIC DIVERSION SYSTEM - OBJECT RECOGNITION USING CNN 2019</b>
+<b>A. TRAFFIC DIVERSION SYSTEM - OBJECT RECOGNITION USING CNN 2019</b>
 
 1. Deployed CNN to detect incoming vehicles on a busy intersection to prioritize the flow of traffic to avoid congestion.
 2. The High - Speed camera will capture the live feed of the incoming traffic which will be processed further to determine the number of
 vehicles in a lane.
 
-<b>2. AMERICAN SIGN LANGUAGE GESTURE ANALYSIS USING TENSORFLOW BACK-END AND OPENCV 2020</b>
+<b>B. AMERICAN SIGN LANGUAGE GESTURE ANALYSIS USING TENSORFLOW BACK-END AND OPENCV 2020</b>
 
 1. Implemented a customer-based utility service for specially-abled people (deaf and mute specifically)
 2. Motive : Deaf and mute people use sign language for communication and thus face a lot of problems in day –to– day activities like
@@ -47,7 +47,7 @@ ordering food at a “Drive – thru ” or having a conversation with an attend
 3. ASL Detection is based on Image Processing and Object Detection integrated with a Computer webcam or any other video detecting
 accoutrements in order to help both; the customer and the retailer to have a better engagement whilst having a conversation. 
 
-<b>3. FRESH - AN ANDROID BASED RESTAURANT FOOD ORDERING APP 2020</b>
+<b>C. FRESH - AN ANDROID BASED RESTAURANT FOOD ORDERING APP 2020</b>
 
 1. Developed an android application that scans QR codes and displays the menu of a particular restaurant allowing the user to order and pay
 via the application per se.
@@ -61,8 +61,8 @@ via the application per se.
 		<th>Song Used</th>
 	</tr>
 	<tr bgcolor="#ffffff">
-		<td>Data</td>
-		<td>Data</td>
+		<td>Data       edaedsed</td>
+		<td>Data deadadeada</td>
 	</tr>
 </table>
 </center>
