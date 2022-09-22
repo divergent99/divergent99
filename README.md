@@ -53,33 +53,17 @@ accoutrements in order to help both; the customer and the retailer to have a bet
 via the application per se.
 2. Me and my team wanted to impart a millennial experience to the customers by combining technology with a decent restaurant experience.
 
-<svg>
-<foreignObject>
-	table {
-  width: 100%;
-  border: 1px solid #000;
-}
-
-th, td {
-  width: 25%;
-  text-align: left;
-  vertical-align: top;
-  border: 1px solid #000;
-  border-spacing: 0;
-}
 
 <table cellspacing="4" bgcolor="#000000" style="margin: 0px auto;>
 	<tr bgcolor="#ffffff">
 		<th>Edit Name</th>
 		<th>Song Used</th>
 	</tr>
-	<tr bgcolor="#ffffff">
+	<tr bgcolor="red">
 		<td>Data       edaedsed</td>
 		<td>Data deadadeada</td>
 	</tr>
 </table>
-</center>
-</foreignObject>
-</svg>
+
 
 
