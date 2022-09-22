@@ -33,7 +33,6 @@
 3. Platforms: Anaconda, RStudio, Android Studio, VScode, Colab
 
 <b><h2>Projects</h2></b> : 
-
 <b>1. TRAFFIC DIVERSION SYSTEM - OBJECT RECOGNITION USING CNN 2019</b>
 
 1. Deployed CNN to detect incoming vehicles on a busy intersection to prioritize the flow of traffic to avoid congestion.
@@ -53,6 +52,19 @@ accoutrements in order to help both; the customer and the retailer to have a bet
 1. Developed an android application that scans QR codes and displays the menu of a particular restaurant allowing the user to order and pay
 via the application per se.
 2. Me and my team wanted to impart a millennial experience to the customers by combining technology with a decent restaurant experience.
+
+table {
+  width: 100%;
+  border: 1px solid #000;
+}
+
+th, td {
+  width: 25%;
+  text-align: left;
+  vertical-align: top;
+  border: 1px solid #000;
+  border-spacing: 0;
+}
 
 <table cellspacing="3" bgcolor="#000000">
 	<tr bgcolor="#ffffff">
