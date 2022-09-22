@@ -23,9 +23,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=divergent99&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divergent99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![IMAGE ALT TEXT HERE](https://github.com/divergent99/divergent99/blob/main/r-modified.png|width=200)](https://youtu.be/-I8tEqRHKfA)
-
+<p align="center">
+<a href="https://youtu.be/-I8tEqRHKfA">
+<img src="https://github.com/divergent99/divergent99/blob/main/r-modified.png" alt="Stats" loop=False>
+</a></p>
 
 <b><h2>About Me</h2></b>
 
