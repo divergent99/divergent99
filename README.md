@@ -54,16 +54,17 @@ via the application per se.
 2. Me and my team wanted to impart a millennial experience to the customers by combining technology with a decent restaurant experience.
 
 
-
-<table cellspacing="3" bgcolor="#000000" width=400>
+<center>
+<table cellspacing="4" bgcolor="#000000">
 	<tr bgcolor="#ffffff">
-		<th>Header</th>
-		<th>Header</th>
+		<th>Edit Name</th>
+		<th>Song Used</th>
 	</tr>
 	<tr bgcolor="#ffffff">
 		<td>Data</td>
 		<td>Data</td>
 	</tr>
 </table>
+</center>
 
 
