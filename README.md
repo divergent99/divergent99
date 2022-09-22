@@ -55,13 +55,36 @@ via the application per se.
 
 
 <table cellspacing="4" bgcolor="#000000" style="margin: 0px auto;>
-	<tr bgcolor="#ffffff">
-		<th>Edit Name</th>
-		<th>Song Used</th>
+	<tr>
+		<th>Project Videos</th>
 	</tr>
-	<tr bgcolor="red">
-		<td>Data       edaedsed</td>
-		<td>Data deadadeada</td>
+	<tr>
+		<th>Module</th>
+		<th>Project Name</th>
+	</tr>
+	<tr>
+		<td>AI-1: BASICS OF AI & ML</td>
+		<td>Let's Play Fifa</td>
+	</tr>
+	<tr>
+		<td>AI-2 : CONVOLUTIONAL NEURAL NETWORKS</td>
+		<td>ASL Gesture Analysis</td>
+	</tr>
+	<tr>
+		<td>DS 1: DATA SCIENCE BASICS</td>
+		<td>Restaurant Recommendation System</td>
+	</tr>
+	<tr>
+		<td>DS-2: DECISION TREES AND ENSEMBLE METHODS</td>
+		<td>Deep Dive of Housing in India</td>
+	</tr>
+	<tr>
+		<td>AI-3: LANGUAGE MODELS</td>
+		<td>teachin Assistant Bot</td>
+	</tr>
+	<tr>
+		<td>AI-4 : REINFORCEMENT LEARNING AND GENERATIVE ADVERSARIAL NETWORKS</td>
+		<td>Using Cycle GANs to Generate Ukiyo-E Art</td>
 	</tr>
 </table>
 
