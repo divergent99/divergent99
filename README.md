@@ -42,10 +42,10 @@ vehicles in a lane.
 
 <b>2. AMERICAN SIGN LANGUAGE GESTURE ANALYSIS USING TENSORFLOW BACK-END AND OPENCV 2020</b>
 
-• Implemented a customer-based utility service for specially-abled people (deaf and mute specifically)
-• Motive : Deaf and mute people use sign language for communication and thus face a lot of problems in day –to– day activities like
+1. Implemented a customer-based utility service for specially-abled people (deaf and mute specifically)
+2. Motive : Deaf and mute people use sign language for communication and thus face a lot of problems in day –to– day activities like
 ordering food at a “Drive – thru ” or having a conversation with an attendant who is oblivious to their predicament.
-• ASL Detection is based on Image Processing and Object Detection integrated with a Computer webcam or any other video detecting
+3. ASL Detection is based on Image Processing and Object Detection integrated with a Computer webcam or any other video detecting
 accoutrements in order to help both; the customer and the retailer to have a better engagement whilst having a conversation. 
 
 <b>3. FRESH - AN ANDROID BASED RESTAURANT FOOD ORDERING APP 2020</b>
