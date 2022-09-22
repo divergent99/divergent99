@@ -55,7 +55,7 @@ via the application per se.
 
 
 <center>
-<table cellspacing="4" bgcolor="#000000">
+<table cellspacing="4" bgcolor="#000000" style="margin: 0px auto;>
 	<tr bgcolor="#ffffff">
 		<th>Edit Name</th>
 		<th>Song Used</th>
