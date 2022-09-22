@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://youtu.be/-I8tEqRHKfA">
-<img src="https://github.com/divergent99/divergent99/blob/main/r-modified.png" width=400 alt="Stats" loop=False>
+<img src="https://github.com/divergent99/divergent99/blob/main/r-modified.png" width=150 alt="Stats" loop=False>
 </a></p>
 
 <b><h2>About Me</h2></b>
