@@ -27,17 +27,17 @@
 
 **Data Science has always intrigued me because of its ubiquitous and practical applications along with the ability to solve and model real-world scenarios**. Data Visualization Techniques and Model Deployment are a few of my interests in this domain but I personally believe in widening one’s tech stack and being open to constantly learning new technologies and platforms to increase efficacy.
 
-<b>Interests</b> : 
+<b><h2>Interests</h2></b> : 
 1. Machine Learning / Deep Learning: CNN,RNNs, NLP, SVM Regression, Decision Trees / Random Forest, Logistic Regression
 2. Coding / Software: TensorFlow, Python, R, MySQL, Java, C/C++, HTML/CSS, JavaScript, Tensorboard, spaCy, NLTK
 3. Platforms: Anaconda, RStudio, Android Studio, VScode, Colab
 
-<b>Projects</b> : 
+<b><h2>Projects</h2></b> : 
 
 <b>1. TRAFFIC DIVERSION SYSTEM - OBJECT RECOGNITION USING CNN 2019</b>
 
-• Deployed CNN to detect incoming vehicles on a busy intersection to prioritize the flow of traffic to avoid congestion.
-• The High - Speed camera will capture the live feed of the incoming traffic which will be processed further to determine the number of
+1. Deployed CNN to detect incoming vehicles on a busy intersection to prioritize the flow of traffic to avoid congestion.
+2. The High - Speed camera will capture the live feed of the incoming traffic which will be processed further to determine the number of
 vehicles in a lane.
 
 <b>2. AMERICAN SIGN LANGUAGE GESTURE ANALYSIS USING TENSORFLOW BACK-END AND OPENCV 2020</b>
@@ -50,8 +50,19 @@ accoutrements in order to help both; the customer and the retailer to have a bet
 
 <b>3. FRESH - AN ANDROID BASED RESTAURANT FOOD ORDERING APP 2020</b>
 
-• Developed an android application that scans QR codes and displays the menu of a particular restaurant allowing the user to order and pay
+1. Developed an android application that scans QR codes and displays the menu of a particular restaurant allowing the user to order and pay
 via the application per se.
-• Me and my team wanted to impart a millennial experience to the customers by combining technology with a decent restaurant experience.
+2. Me and my team wanted to impart a millennial experience to the customers by combining technology with a decent restaurant experience.
+
+<table cellspacing="3" bgcolor="#000000">
+	<tr bgcolor="#ffffff">
+		<th>Header</th>
+		<th>Header</th>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td>Data</td>
+		<td>Data</td>
+	</tr>
+</table>
 
 
