@@ -61,27 +61,27 @@ via the application per se.
 	</tr>
 	<tr>
 		<td>AI-1: BASICS OF AI & ML</td>
-		<td>Let's Play Fifa</td>
+		<td><a href="https://drive.google.com/file/d/1nnbTdyblDZLAw4A89A3lka7fViOto7Ep/view?usp=sharing">Let's Play Fifa</a></td>
 	</tr>
 	<tr>
 		<td>AI-2 : CONVOLUTIONAL NEURAL NETWORKS</td>
-		<td>ASL Gesture Analysis</td>
+		<td><a href="https://drive.google.com/file/d/10XUeFRXOfdw3KeF-IEPKQfkQvgY5N1Xl/view?usp=sharing">ASL Gesture Analysis</a></td>
 	</tr>
 	<tr>
-		<td>DS 1: DATA SCIENCE BASICS</td>
-		<td>Restaurant Recommendation System</td>
+		<td>DS-1: DATA SCIENCE BASICS</td>
+		<td><a href="https://drive.google.com/file/d/1g0MsjEa_tP8XygUm771pnul7c_heGKmU/view?usp=sharing">Restaurant Recommendation System</a></td>
 	</tr>
 	<tr>
 		<td>DS-2: DECISION TREES AND ENSEMBLE METHODS</td>
-		<td>Deep Dive of Housing in India</td>
+		<td><a href="https://drive.google.com/file/d/1eMms9iOBOn4cizG2C9pZJyvNy17CD93s/view?usp=sharing">Deep Dive of Housing in India</a></td>
 	</tr>
 	<tr>
 		<td>AI-3: LANGUAGE MODELS</td>
-		<td>Teaching Assistant Bot</td>
+		<td><a href="https://drive.google.com/file/d/1XDJSR5Db9cpfkMth5Qp5cSJRiqFUxGjV/view?usp=sharing">Teaching Assistant Bot</a></td>
 	</tr>
 	<tr>
 		<td>AI-4 : REINFORCEMENT LEARNING AND GENERATIVE ADVERSARIAL NETWORKS</td>
-		<td>Using Cycle GANs to Generate Ukiyo-E Art</td>
+		<td><a href="https://drive.google.com/file/d/1wKE0YluARqBA9Abgxp8pVpdykwQmbycA/view?usp=sharing">Using Cycle GANs to Generate Ukiyo-E Art</a></td>
 	</tr>
 </table>
 
