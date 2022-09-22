@@ -54,7 +54,7 @@ via the application per se.
 2. Me and my team wanted to impart a millennial experience to the customers by combining technology with a decent restaurant experience.
 
 
-<table cellspacing="4" bgcolor="#000000" style="margin: 0px auto;>
+<table cellspacing="4" bgcolor="#000000">
 	<tr>
 		<th>Project Videos</th>
 	</tr>
