@@ -53,20 +53,9 @@ accoutrements in order to help both; the customer and the retailer to have a bet
 via the application per se.
 2. Me and my team wanted to impart a millennial experience to the customers by combining technology with a decent restaurant experience.
 
-table {
-  width: 100%;
-  border: 1px solid #000;
-}
 
-th, td {
-  width: 25%;
-  text-align: left;
-  vertical-align: top;
-  border: 1px solid #000;
-  border-spacing: 0;
-}
 
-<table cellspacing="3" bgcolor="#000000">
+<table cellspacing="3" bgcolor="#000000" width=400>
 	<tr bgcolor="#ffffff">
 		<th>Header</th>
 		<th>Header</th>
