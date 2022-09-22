@@ -23,6 +23,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=divergent99&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divergent99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![IMAGE ALT TEXT HERE](https://github.com/divergent99/divergent99/blob/main/r-modified.png)](https://youtu.be/-I8tEqRHKfA)
+
 <b><h2>About Me</h2></b>
 
 **Data Science has always intrigued me because of its ubiquitous and practical applications along with the ability to solve and model real-world scenarios**. Data Visualization Techniques and Model Deployment are a few of my interests in this domain but I personally believe in widening one’s tech stack and being open to constantly learning new technologies and platforms to increase efficacy.
