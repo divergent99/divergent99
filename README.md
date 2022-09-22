@@ -56,7 +56,7 @@ via the application per se.
 
 <table cellspacing="4" bgcolor="#000000">
 	<tr>
-		<th>Project Videos</th>
+		Project Videos
 	</tr>
 	<tr>
 		<th>Module</th>
@@ -80,7 +80,7 @@ via the application per se.
 	</tr>
 	<tr>
 		<td>AI-3: LANGUAGE MODELS</td>
-		<td>teachin Assistant Bot</td>
+		<td>Teaching Assistant Bot</td>
 	</tr>
 	<tr>
 		<td>AI-4 : REINFORCEMENT LEARNING AND GENERATIVE ADVERSARIAL NETWORKS</td>
