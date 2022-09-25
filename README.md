@@ -32,12 +32,12 @@
 
 **Data Science has always intrigued me because of its ubiquitous and practical applications along with the ability to solve and model real-world scenarios**. Data Visualization Techniques and Model Deployment are a few of my interests in this domain but I personally believe in widening one’s tech stack and being open to constantly learning new technologies and platforms to increase efficacy.
 
-<b><h2>Interests</h2></b> : 
+<b><h2>Interests :</h2></b> 
 1. Machine Learning / Deep Learning: CNN,RNNs, NLP, SVM Regression, Decision Trees / Random Forest, Logistic Regression
 2. Coding / Software: TensorFlow, Python, R, MySQL, Java, C/C++, HTML/CSS, JavaScript, Tensorboard, spaCy, NLTK
 3. Platforms: Anaconda, RStudio, Android Studio, VScode, Colab
 
-<b><h2>Projects</h2></b> : 
+<b><h2>Projects :</h2></b> 
 <b>A. TRAFFIC DIVERSION SYSTEM - OBJECT RECOGNITION USING CNN 2019</b>
 
 1. Deployed CNN to detect incoming vehicles on a busy intersection to prioritize the flow of traffic to avoid congestion.
