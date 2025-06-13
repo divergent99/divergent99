@@ -27,7 +27,7 @@
 - 🧠 **ML and AI Enthusiast** passionate about Generative AI and LLM fine-tuning
 - 🎮 **Gaming Enthusiast** - Minecraft and Valorant player
 - 🎬 **Part-Time Editor** creating engaging content
-- 💼 **Currently:** Associate at Alvarez & Marsal (GCC) - DTS Due Diligence
+- 💼 **Currently:** Associate at a Consulting Firm - DTS Due Diligence
 - 🎯 **Focus:** GDPR-compliant AI models, advanced LLM fine-tuning, and digital transformation
 
 ## 🛠️ Technical Skills
