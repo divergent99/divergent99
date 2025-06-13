@@ -1,96 +1,158 @@
-<font color="black">
-<h2 align="center">
-  Hello There
-  </h2>
-</font>
+# Hello There! 👋
+
 <p align="center">
-  <img src="https://github.com/divergent99/divergent99/blob/main/Hi%20!.gif" alt="Stats" loop=False>
+  <img src="https://github.com/divergent99/divergent99/blob/main/Hi%20!.gif" alt="Hello Animation" width="400">
 </p>
 
-<ol>
-  <b>
-  <li> ML and AI Enthusiast :technologist:</li>
-  <li> Minecraft and Valorant 🕹️</li>
-  <li> Part Time Editor :film_strip:</li>
-   </b>
-</ol>
-
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<windows>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://komarev.com/ghpvc/?username=divergent99&color=green)
-
-
-!![Abhineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=divergent99&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=divergent99&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divergent99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">Abhineet Sharma | GenAI Advisory</h2>
 
 <p align="center">
-<a href="https://youtu.be/-I8tEqRHKfA">
-<img src="https://github.com/divergent99/divergent99/blob/main/r-modified.png" width=200 alt="Stats" loop=False>
-</a></p>
+  <em>Experienced professional in Business Transformation Services, specializing in delivering frugal innovation, rapid incubation, and scalable solutions for global clients across diverse industries.</em>
+</p>
 
-<b><h2>About Me</h2></b>
+<div align="center">
 
-**Data Science has always intrigued me because of its ubiquitous and practical applications along with the ability to solve and model real-world scenarios**. Data Visualization Techniques and Model Deployment are a few of my interests in this domain but I personally believe in widening one’s tech stack and being open to constantly learning new technologies and platforms to increase efficacy.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhineet-sharma-)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divergent99)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhineetsharma77)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-I8tEqRHKfA)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhineetsharma77@gmail.com)
 
-<b><h2>Interests :</h2></b> 
-1. Machine Learning / Deep Learning: CNN,RNNs, NLP, SVM Regression, Decision Trees / Random Forest, Logistic Regression
-2. Coding / Software: TensorFlow, Python, R, MySQL, Java, C/C++, HTML/CSS, JavaScript, Tensorboard, spaCy, NLTK
-3. Platforms: Anaconda, RStudio, Android Studio, VScode, Colab
+![Profile Views](https://komarev.com/ghpvc/?username=divergent99&color=blueviolet&style=for-the-badge)
 
-<b><h2>Projects :</h2></b> 
-<b>A. TRAFFIC DIVERSION SYSTEM - OBJECT RECOGNITION USING CNN 2019</b>
+</div>
 
-1. Deployed CNN to detect incoming vehicles on a busy intersection to prioritize the flow of traffic to avoid congestion.
-2. The High - Speed camera will capture the live feed of the incoming traffic which will be processed further to determine the number of
-vehicles in a lane.
+## 🚀 About Me
 
-<b>B. AMERICAN SIGN LANGUAGE GESTURE ANALYSIS USING TENSORFLOW BACK-END AND OPENCV 2020</b>
+- 🧠 **ML and AI Enthusiast** passionate about Generative AI and LLM fine-tuning
+- 🎮 **Gaming Enthusiast** - Minecraft and Valorant player
+- 🎬 **Part-Time Editor** creating engaging content
+- 💼 **Currently:** Associate at Alvarez & Marsal (GCC) - DTS Due Diligence
+- 🎯 **Focus:** GDPR-compliant AI models, advanced LLM fine-tuning, and digital transformation
 
-1. Implemented a customer-based utility service for specially-abled people (deaf and mute specifically)
-2. Motive : Deaf and mute people use sign language for communication and thus face a lot of problems in day –to– day activities like
-ordering food at a “Drive – thru ” or having a conversation with an attendant who is oblivious to their predicament.
-3. ASL Detection is based on Image Processing and Object Detection integrated with a Computer webcam or any other video detecting
-accoutrements in order to help both; the customer and the retailer to have a better engagement whilst having a conversation. 
+## 🛠️ Technical Skills
 
-<b>C. FRESH - AN ANDROID BASED RESTAURANT FOOD ORDERING APP 2020</b>
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-1. Developed an android application that scans QR codes and displays the menu of a particular restaurant allowing the user to order and pay
-via the application per se.
-2. Me and my team wanted to impart a millennial experience to the customers by combining technology with a decent restaurant experience.
+### **Cloud & AI Platforms**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<b><h2>The Univ.AI Series</h2></b>
+### **AI/ML Frameworks & Tools**
+- **LLM & GenAI:** OpenAI, LangChain, LangGraph, LangSmith, CrewAI, Whisper
+- **ML Libraries:** TensorFlow, scikit-learn, PyTorch
+- **Data Processing:** Pandas, NumPy, Beautiful Soup, Selenium
+- **Specialized:** BERT, RNNs, CNNs, spaCy, NLTK, Librosa, CTGANs
 
-<table cellspacing="4" bgcolor="#000000">
-	<tr>
-		<th>Module</th>
-		<th>Project Name</th>
-	</tr>
-	<tr>
-		<td>AI-1: BASICS OF AI & ML</td>
-		<td><a href="https://drive.google.com/file/d/1nnbTdyblDZLAw4A89A3lka7fViOto7Ep/view?usp=sharing">Let's Play Fifa</a></td>
-	</tr>
-	<tr>
-		<td>AI-2 : CONVOLUTIONAL NEURAL NETWORKS</td>
-		<td><a href="https://drive.google.com/file/d/10XUeFRXOfdw3KeF-IEPKQfkQvgY5N1Xl/view?usp=sharing">ASL Gesture Analysis</a></td>
-	</tr>
-	<tr>
-		<td>DS-1: DATA SCIENCE BASICS</td>
-		<td><a href="https://drive.google.com/file/d/1g0MsjEa_tP8XygUm771pnul7c_heGKmU/view?usp=sharing">Restaurant Recommendation System</a></td>
-	</tr>
-	<tr>
-		<td>DS-2: DECISION TREES AND ENSEMBLE METHODS</td>
-		<td><a href="https://drive.google.com/file/d/1eMms9iOBOn4cizG2C9pZJyvNy17CD93s/view?usp=sharing">Deep Dive of Housing in India</a></td>
-	</tr>
-	<tr>
-		<td>AI-3: LANGUAGE MODELS</td>
-		<td><a href="https://drive.google.com/file/d/1XDJSR5Db9cpfkMth5Qp5cSJRiqFUxGjV/view?usp=sharing">Teaching Assistant Bot</a></td>
-	</tr>
-	<tr>
-		<td>AI-4 : REINFORCEMENT LEARNING AND GENERATIVE ADVERSARIAL NETWORKS</td>
-		<td><a href="https://drive.google.com/file/d/1wKE0YluARqBA9Abgxp8pVpdykwQmbycA/view?usp=sharing">Using Cycle GANs to Generate Ukiyo-E Art</a></td>
-	</tr>
-</table>
+### **Web Development**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### **Data Visualization & Analytics**
+- **Tools:** Plotly Dash, BigQuery, Google Analytics 4, Alteryx
+- **Techniques:** Sentiment Analysis, Predictive Modeling, Portfolio Management
 
+### **Databases & Storage**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
 
+## 🏆 Key Achievements
+
+- 🚀 **50% Time Reduction** in vendor normalization and item classification (4 weeks → 2 weeks)
+- ⚡ **85% Faster** financial deck preparation (2 weeks → 8 hours)
+- 📈 **40% Improvement** in investor relations strategy
+- 🎯 **93% Accuracy** in PDF data extraction (up from 65%)
+- 🏅 **Winner:** DSLP Fellowship Univ.AI Geoffrey Hinton Fellowship (2021)
+- 🥈 **L2 Qualifier:** Hack It Out | Newgen Software (2024)
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![Abhineet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divergent99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=divergent99&theme=radical&hide_border=true&background=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divergent99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
+
+## 🔬 Featured Projects
+
+### **🤖 LLM-Powered Automation Workflows**
+- Built GenAI applications (LumYn and Harper) using agentic frameworks
+- Implemented multi-source systems for banks and e-commerce businesses
+- **Tech Stack:** Azure OpenAI, LangChain, CrewAI, FastAPI
+
+### **📈 Automated Financial Analysis System**
+- Analyzes earnings call transcripts with sentiment analysis
+- Integrates external stock data for comprehensive insights
+- **Impact:** 85% reduction in preparation time
+- **Tech Stack:** OpenAI, Plotly Dash, Python, Langsmith
+
+### **🔍 Intelligent PDF Data Extraction**
+- Combined OCR and LLM technologies for document processing
+- Handles healthcare, legal, and financial documents
+- **Achievement:** 93% accuracy, 50% cost reduction
+- **Tech Stack:** OCR, LLM, PyPDF2, Pydantic
+
+### **🎯 American Sign Language Gesture Analysis**
+- Computer vision solution for specially-abled individuals
+- Real-time ASL detection using webcam integration
+- **Tech Stack:** TensorFlow, OpenCV, Image Processing
+- **Publication:** Accepted at ICACDS 2022 (Springer CCIS)
+
+## 🎓 The Univ.AI Series
+
+<div align="center">
+
+| Module | Project Name | Link |
+|--------|--------------|------|
+| **AI-1: Basics of AI & ML** | Let's Play Fifa | [View Project](https://drive.google.com/file/d/1nnbTdyblDZLAw4A89A3lka7fViOto7Ep/view) |
+| **AI-2: Convolutional Neural Networks** | ASL Gesture Analysis | [View Project](https://drive.google.com/file/d/10XUeFRXOfdw3KeF-IEPKQfkQvgY5N1Xl/view) |
+| **DS-1: Data Science Basics** | Restaurant Recommendation System | [View Project](https://drive.google.com/file/d/1g0MsjEa_tP8XygUm771pnul7c_heGKmU/view) |
+| **DS-2: Decision Trees & Ensemble Methods** | Deep Dive of Housing in India | [View Project](https://drive.google.com/file/d/1eMms9iOBOn4cizG2C9pZJyvNy17CD93s/view) |
+| **AI-3: Language Models** | Teaching Assistant Bot | [View Project](https://drive.google.com/file/d/1XDJSR5Db9cpfkMth5Qp5cSJRiqFUxGjV/view) |
+| **AI-4: RL and GANs** | Using Cycle GANs to Generate Ukiyo-E Art | [View Project](https://drive.google.com/file/d/1wKE0YluARqBA9Abgxp8pVpdykwQmbycA/view) |
+
+</div>
+
+## 🌟 Current Focus
+
+- 🔬 **Research:** GDPR-compliant AI models and advanced LLM fine-tuning
+- 🚀 **Development:** Scalable GenAI solutions for enterprise clients
+- 📊 **Analytics:** Predictive modeling for financial due diligence
+- 🤝 **Collaboration:** Cross-functional AI implementation projects
+
+## 🎯 Interests & Hobbies
+
+<div align="center">
+
+🏸 **Badminton** | 📚 **Reading** | 🎬 **Video Editing** | 🎭 **Cinema** | 🍳 **Cooking** 
+📈 **Stock Trading** | 🎵 **Music** | 💪 **Workout** | 💻 **Coding** | 🎮 **Gaming**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+*Always open to discussing AI/ML projects, collaboration opportunities, or just having a tech chat!*
+
+<p align="center">
+  <a href="https://youtu.be/-I8tEqRHKfA">
+    <img src="https://github.com/divergent99/divergent99/blob/main/r-modified.png" width="150" alt="Personal Brand">
+  </a>
+</p>
+
+**"Data Science has always intrigued me because of its ubiquitous and practical applications along with the ability to solve and model real-world scenarios"**
+
+</div>
