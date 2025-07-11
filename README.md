@@ -80,6 +80,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divergent99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
+![Contribution Snake](https://github.com/divergent99/divergent99/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ## 🔬 Featured Projects
