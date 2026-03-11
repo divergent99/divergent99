@@ -74,11 +74,11 @@
 
 <div align="center">
 
-![Abhineet's GitHub Stats](https://github-readme-stats-jrfi9s3j0-divergent99s-projects.vercel.app/api?username=divergent99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=2)
+![Abhineet's GitHub Stats](https://github-readme-stats-jrfi9s3j0-divergent99s-projects.vercel.app/api?username=divergent99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=divergent99&theme=radical&hide_border=true&background=0D1117)
 
-![Top Languages](https://github-readme-stats-jrfi9s3j0-divergent99s-projects.vercel.app/api/top-langs/?username=divergent99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&v=2)
+![Top Languages](https://github-readme-stats-jrfi9s3j0-divergent99s-projects.vercel.app/api/top-langs/?username=divergent99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
 
