@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a6e,100:0d0d2b&height=220&section=header&text=Abhineet%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=52&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20Advisory%20%E2%80%A2%20M%26A%20%26%20Due%20Diligence%20Intelligence&descSize=16&descAlignY=72&descFontColor=9ba8d0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a6e,100:0d0d2b&height=220&section=header&text=Abhineet%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+# Abhineet Sharma
+**AI Engineer · GenAI Advisory · M&A & Due Diligence Intelligence**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhineet-sharma-)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abhineetsharma77)
