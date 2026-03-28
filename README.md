@@ -65,10 +65,6 @@ Currently focused on:
 
 ## Featured Projects
 
-> Company names and internal project identifiers are intentionally omitted.
-
----
-
 ### 🧠 Document-to-Deck Intelligence Pipeline
 *Automated PDF-to-PowerPoint generation for PE due diligence advisory*
 
@@ -161,9 +157,32 @@ Unicode range scanning → legal suffix regex matching → Azure OpenAI batched 
 
 ---
 
+## Beyond the Code
+
 <div align="center">
 
-*Building enterprise-grade GenAI that actually ships.*
+🏸 Badminton &nbsp;|&nbsp; 📈 Stock Trading &nbsp;|&nbsp; 🎬 Video Editing &nbsp;|&nbsp; 🎭 Cinema &nbsp;|&nbsp; 🍳 Cooking &nbsp;|&nbsp; 🎵 Music &nbsp;|&nbsp; 🎮 Gaming (Minecraft & Valorant) &nbsp;|&nbsp; 📚 Reading
+
+</div>
+
+---
+
+## 💬 Let's Connect
+
+<div align="center">
+
+<p><em>Always open to discussing GenAI projects, agentic systems, or M&A tech — or just a good tech conversation.</em></p>
+
+<p align="center">
+  <a href="https://youtu.be/-I8tEqRHKfA">
+    <img src="https://github.com/divergent99/divergent99/blob/main/r-modified.png" width="120" alt="Personal Brand">
+  </a>
+</p>
+
+**"Data Science has always intrigued me because of its ubiquitous and practical applications along with the ability to solve and model real-world scenarios."**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhineet-sharma-)
+[![Email](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhineetsharma77@gmail.com)
 
 </div>
 
