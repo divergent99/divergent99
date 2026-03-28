@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:1a1060,100:0d0d1a&height=200&section=header&text=Abhineet%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20GenAI%20Advisory%20%C2%B7%20M%26A%20%26%20Due%20Diligence%20Intelligence&descSize=16&descAlignY=75&descFontColor=a0a8d0&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a6e,100:0d0d2b&height=220&section=header&text=Abhineet%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=52&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20Advisory%20%E2%80%A2%20M%26A%20%26%20Due%20Diligence%20Intelligence&descSize=16&descAlignY=72&descFontColor=9ba8d0&animation=fadeIn" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhineet-sharma-)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abhineetsharma77)
@@ -183,4 +183,4 @@ Unicode range scanning → legal suffix regex matching → Azure OpenAI batched 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:1a1060,100:0d0d1a&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a6e,100:0d0d2b&height=100&section=footer&animation=fadeIn" width="100%"/>
