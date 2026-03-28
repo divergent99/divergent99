@@ -1,16 +1,12 @@
 <div align="center">
 
-<!-- Animated header with subtle terminal aesthetic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,100:1a1a3e&height=120&section=header&text=&fontColor=fff" width="100%"/>
-
-# Abhineet Sharma
-
-**AI Engineer · GenAI Advisory · M&A & Due Diligence Intelligence**
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:1a1060,100:0d0d1a&height=200&section=header&text=Abhineet%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20GenAI%20Advisory%20%C2%B7%20M%26A%20%26%20Due%20Diligence%20Intelligence&descSize=16&descAlignY=75&descFontColor=a0a8d0&animation=twinkling" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhineet-sharma-)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abhineetsharma77)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhineetsharma77@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-divergent99-181717?style=flat-square&logo=github)](https://github.com/divergent99)
+[![PromptBase](https://img.shields.io/badge/PromptBase-akriceus-FF6B35?style=flat-square&logo=openai&logoColor=white)](https://promptbase.com/profile/akriceus)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divergent99&color=5c6bc0&style=flat-square&label=Profile+Views)
 
@@ -26,6 +22,7 @@ Currently focused on:
 - **Agentic pipelines** for M&A due diligence and PE advisory workflows
 - **Document intelligence** — parsing, structuring, and surfacing insights from complex financial documents
 - **Enterprise GenAI platforms** with traceability, audit trails, and hallucination controls
+- **Prompt Engineering** — I also sell production-ready prompts on [PromptBase](https://promptbase.com/profile/akriceus) under the handle `akriceus`
 
 ---
 
@@ -186,4 +183,4 @@ Unicode range scanning → legal suffix regex matching → Azure OpenAI batched 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a3e,100:0f0f23&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:1a1060,100:0d0d1a&height=100&section=footer&animation=twinkling" width="100%"/>
