@@ -140,7 +140,7 @@ Unicode range scanning → legal suffix regex matching → Azure OpenAI batched 
 - 🏅 **DSLP Fellowship** — Univ.AI Geoffrey Hinton Fellowship (2021)
 - 🥈 **L2 Qualifier** — Hack It Out | Newgen Software (2024)
 - 📄 **Publication** — ASL Gesture Analysis, ICACDS 2022 (Springer CCIS)
-- 🏆 **Active Hackathon Participant** — Devpost: [divergent99](https://devpost.com/divergent99)
+- 🏆 **Active Hackathon Participant** — Devpost: [divergent99](https://devpost.com/abhineetsharma77)
 
 ---
 
