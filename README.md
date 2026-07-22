@@ -64,7 +64,7 @@ Currently focused on:
 
 ## Featured Projects
 
-### 🧠 Document-to-Deck Intelligence Pipeline
+### Document-to-Deck Intelligence Pipeline
 *Automated PDF-to-PowerPoint generation for PE due diligence advisory*
 
 Converts unstructured briefing documents into structured PowerPoint deliverables aligned to consulting PoV templates. Features a deterministic chart manifest, a fidelity checker that audits all extracted numbers against source, and a batched slide generation pipeline with validation gates.
@@ -73,7 +73,7 @@ Converts unstructured briefing documents into structured PowerPoint deliverables
 
 ---
 
-### ⚖️ Multi-Agent M&A Due Diligence Platform
+### Multi-Agent M&A Due Diligence Platform
 *Agentic deal council for M&A analysis with parallel LLM scoring*
 
 A council of five specialized LLM agents — each evaluating a distinct diligence dimension — with a synthesis agent producing a Senior Partner-style summary. Features a non-blocking async pipeline via daemon threads + polling, parallelized scoring with `ThreadPoolExecutor`, and a ChromaDB RAG layer over uploaded deal documents.
@@ -82,7 +82,7 @@ A council of five specialized LLM agents — each evaluating a distinct diligenc
 
 ---
 
-### 🔐 AI Deal Room Assistant with Delegated Auth
+### AI Deal Room Assistant with Delegated Auth
 *Agentic document Q&A with enterprise-grade authentication flows*
 
 Secure M&A virtual data room assistant with CIBA (Client-Initiated Backchannel Authentication) push approval for email and calendar actions. Deployed to cloud with modular architecture across 28+ files.
@@ -91,7 +91,7 @@ Secure M&A virtual data room assistant with CIBA (Client-Initiated Backchannel A
 
 ---
 
-### 💬 Text-to-SQL Analytics Engine
+### Text-to-SQL Analytics Engine
 *Natural language business intelligence over enterprise data*
 
 Sophisticated NL-to-SQL engine with semantic cache, pattern detection for customer segmentation queries (growing, declining, new, lost), and Power BI DAX logic alignment. Streaming SSE responses, conversation history, and follow-up enrichment. Evaluated using DeepEval.
@@ -100,7 +100,7 @@ Sophisticated NL-to-SQL engine with semantic cache, pattern detection for custom
 
 ---
 
-### 🌐 Vendor Name Translation & Normalization Pipeline
+### Vendor Name Translation & Normalization Pipeline
 *Three-phase multilingual vendor normalization at scale*
 
 Unicode range scanning → legal suffix regex matching → Azure OpenAI batched translation, with `tqdm` progress tracking and parallel workers. Reduced a 4-week manual normalization cycle to under 2 weeks.
