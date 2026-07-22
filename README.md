@@ -160,7 +160,7 @@ Unicode range scanning → legal suffix regex matching → Azure OpenAI batched 
 
 <div align="center">
 
-🏸 Badminton &nbsp;|&nbsp; 📈 Stock Trading &nbsp;|&nbsp; 🎬 Video Editing &nbsp;|&nbsp; 🎭 Cinema &nbsp;|&nbsp; 🍳 Cooking &nbsp;|&nbsp; 🎵 Music &nbsp;|&nbsp; 🎮 Gaming (Minecraft & Valorant) &nbsp;|&nbsp; 📚 Reading
+🏸 Badminton &nbsp;|&nbsp; 📈 Stock Trading &nbsp;|&nbsp; 🎬 Video Editing &nbsp;|&nbsp; 🎭 Cinema &nbsp;|&nbsp; 🍳 Cooking &nbsp;|&nbsp; 🎵 Music &nbsp;|&nbsp; 🎮 Gaming (Minecraft & Valorant) &nbsp;|&nbsp; 🏎️ F1 &nbsp;|&nbsp; 📚 Reading
 
 </div>
 
